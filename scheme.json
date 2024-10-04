@@ -1,0 +1,23 @@
+{
+	"name": "SANCAR", // Name of the color scheme
+        "cursorColor": "#cc6ce7", // Cursor color in Power Shell & Terminal
+	"selectionBackground": "#5de2e7", // Background color of the selected text with the mouse
+	"background": "#e9e9e9", // Background color of the Power Shell & Terminal 
+	"foreground": "#58748e", // Text visible in Power Shell & Terminal not editable
+        "black":"#002B36",
+        "blue": "#93c6e0", // Text background color in directory names in Power Shell
+        "cyan": "#2aa198",
+        "green": "#708631",
+        "purple": "#d33682",
+        "red": "#c0392b",
+        "white": "#c00000", // Text color in rute in Terminal
+        "yellow": "#b58900",
+        "brightBlack": "#637d9e", // Text color in arguments
+        "brightBlue": "#839496",
+        "brightCyan": "#93A1A1",
+        "brightGreen": "#708631", // Text color in table title
+        "brightPurple": "#6c71c4",
+        "brightRed": "#c25859", // Text color in error messages
+        "brightWhite": "#fdf6e3",
+        "brightYellow": "#cc6ce7", // Text color in commands
+},
